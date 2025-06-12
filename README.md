@@ -17,7 +17,7 @@ This is a simple chatbot that responds to frequently asked questions (FAQs) usin
 - NLTK
 - Scikit-learn (TF-IDF)
 - Cosine similarity
-- (Optional) TensorFlow Keras Tokenizer
+- TensorFlow Keras Tokenizer
 
 ## 📁 Dataset
 
